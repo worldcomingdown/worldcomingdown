@@ -6,6 +6,7 @@
 <p align=center>$\color{teal}{\textsf{WELCOME TO YOUR OWN BODY COMPANY.}}$<p align=center>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
+  <p align=center>$\color{teal}{\textsf{DNI: basic dni criteria . -16 . proship/bigots!}}$<p align=center>
   
   </a>
 </p>
